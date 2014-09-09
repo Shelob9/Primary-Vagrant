@@ -51,7 +51,7 @@
 	url = https://github.com/ChrisWiegman/puppet-mailcatcher
 [submodule "sites/wordpress/core"]
 	path = sites/wordpress/core
-	url = git://develop.wordpress.org/
+	url = https://github.com/WordPress/WordPress
 [submodule "sites/phpmyadmin/phpmyadmin"]
 	path = sites/phpmyadmin/phpmyadmin
 	url = https://github.com/phpmyadmin/phpmyadmin
