@@ -1,78 +1,78 @@
 [submodule "modules/apache"]
 	path = modules/apache
-	url = git@github.com:example42/puppet-apache.git
+	url = https://github.com/puppetlabs/example42/puppet-apache
 [submodule "modules/apt"]
 	path = modules/apt
-	url = git@github.com:puppetlabs/puppetlabs-apt.git
+	url = https://github.com/puppetlabs/puppetlabs/puppetlabs-apt
 [submodule "modules/concat"]
 	path = modules/concat
-	url = git@github.com:puppetlabs/puppetlabs-concat.git
+	url = https://github.com/puppetlabs/puppetlabs/puppetlabs-concat
 [submodule "modules/php"]
 	path = modules/php
-	url = git@github.com:example42/puppet-php.git
+	url = https://github.com/puppetlabs/example42/puppet-php
 [submodule "modules/puppi"]
 	path = modules/puppi
-	url = git@github.com:example42/puppi.git
+	url = https://github.com/puppetlabs/example42/puppi
 [submodule "modules/stdlib"]
 	path = modules/stdlib
-	url = git@github.com:puppetlabs/puppetlabs-stdlib.git
+	url = https://github.com/puppetlabs/puppetlabs/puppetlabs-stdlib
 [submodule "modules/mysql"]
 	path = modules/mysql
-	url = git@github.com:puppetlabs/puppetlabs-mysql.git
+	url = https://github.com/puppetlabs/puppetlabs/puppetlabs-mysql
 [submodule "sites/Search-Replace-DB"]
 	path = sites/Search-Replace-DB
-	url = git@github.com:interconnectit/Search-Replace-DB.git
+	url = https://github.com/puppetlabs/interconnectit/Search-Replace-DB
 [submodule "modules/phpunit"]
 	path = modules/phpunit
-	url = git@github.com:ChrisWiegman/puppet-phpunit.git
+	url = https://github.com/puppetlabs/ChrisWiegman/puppet-phpunit
 [submodule "modules/wp-cli"]
 	path = modules/wp-cli
-	url = git@github.com:ChrisWiegman/puppet-wpcli.git
+	url = https://github.com/puppetlabs/ChrisWiegman/puppet-wpcli
 [submodule "modules/postfix"]
 	path = modules/postfix
-	url = git@github.com:Aethylred/puppet-postfix.git
+	url = https://github.com/puppetlabs/Aethylred/puppet-postfix
 [submodule "modules/augeas"]
 	path = modules/augeas
-	url = git@github.com:camptocamp/puppet-augeas.git
+	url = https://github.com/puppetlabs/camptocamp/puppet-augeas
 [submodule "sites/webgrind"]
 	path = sites/webgrind
-	url = git@github.com:jokkedk/webgrind.git
+	url = https://github.com/puppetlabs/jokkedk/webgrind
 [submodule "modules/ohmyzsh"]
 	path = modules/ohmyzsh
-	url = git@github.com:acme/puppet-acme-oh-my-zsh.git
+	url = https://github.com/puppetlabs/acme/puppet-acme-oh-my-zsh
 [submodule "sites/wordpress/stable/wordpress"]
 	path = sites/wordpress/stable/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "sites/wordpress/trunk/wordpress"]
 	path = sites/wordpress/trunk/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "modules/mailcatcher"]
 	path = modules/mailcatcher
-	url = git@github.com:ChrisWiegman/puppet-mailcatcher.git
+	url = https://github.com/puppetlabs/ChrisWiegman/puppet-mailcatcher
 [submodule "sites/wordpress/core"]
 	path = sites/wordpress/core
-	url = git://develop.git.wordpress.org/
+	url = git://develop.wordpress.org/
 [submodule "sites/phpmyadmin/phpmyadmin"]
 	path = sites/phpmyadmin/phpmyadmin
-	url = git@github.com:phpmyadmin/phpmyadmin.git
+	url = https://github.com/puppetlabs/phpmyadmin/phpmyadmin
 [submodule "sites/wordpress/legacy/wordpress"]
 	path = sites/wordpress/legacy/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "sites/wordpress/content/plugins/debug-bar"]
 	path = sites/wordpress/content/plugins/debug-bar
-	url = git@github.com:wp-mirrors/debug-bar.git
+	url = https://github.com/puppetlabs/wp-mirrors/debug-bar
 [submodule "sites/wordpress/legacy/htdocs/wordpress"]
 	path = sites/wordpress/legacy/htdocs/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "sites/wordpress/stable/htdocs/wordpress"]
 	path = sites/wordpress/stable/htdocs/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "sites/wordpress/trunk/htdocs/wordpress"]
 	path = sites/wordpress/trunk/htdocs/wordpress
-	url = git@github.com:WordPress/WordPress.git
+	url = https://github.com/puppetlabs/WordPress/WordPress
 [submodule "sites/wordpress/content/plugins/whats-running"]
 	path = sites/wordpress/content/plugins/whats-running
-	url = git@github.com:szepeviktor/whats-running.git
+	url = https://github.com/puppetlabs/szepeviktor/whats-running
 [submodule "sites/wordpress/content/plugins/query-monitor"]
 	path = sites/wordpress/content/plugins/query-monitor
-	url = git@github.com:johnbillion/query-monitor.git
+	url = https://github.com/puppetlabs/johnbillion/query-monitor
